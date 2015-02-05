@@ -1,0 +1,13 @@
+/* 
+  QBImagePickerController.strings
+  QBImagePickerControllerDemo
+
+  Created by Leo Ling on 2015/01/14.
+  Copyright (c) 2015年 Leo Ling. All rights reserved.
+*/
+
+"title" = "相册";
+
+"format_photos_and_videos" = "%ld 相册, %ld 视频”;
+"format_photos" = "%ld 相册”;
+"format_videos" = "%ld 视频”;
